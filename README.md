@@ -26,7 +26,7 @@ CodeGuard is a **first-pass assistant, not a replacement for human security revi
 ## Quick start
 
 1. Install [Ollama](https://ollama.com/download).
-2. Download the latest release below and unzip it.
+2. Download the latest release and unzip it.
 3. Run `CodeGuard Demo.exe`.
 4. If the button says **Install Model (4.7GB)**, click it — this downloads the AI model once (~4.7GB).
 5. Paste your code, click **Run Technical Audit**.
@@ -38,3 +38,7 @@ CodeGuard is a **first-pass assistant, not a replacement for human security revi
 This is a demo build: 5 audits, fastest model only, export disabled.
 
 **Want the full version?** [Join the waitlist →](https://tally.so/r/Z99yOe)
+
+## Feedback
+
+Found a bug, want a feature, or just have thoughts? [Open an issue](https://github.com/QuantumDragon-tech/codeguard-demo/issues) — all feedback welcome.
